@@ -65,4 +65,5 @@ Installation is done using the npm install command:
 |
 
 ## Examples
+
   You can checkout examples while using mongoose for mongoDb or sequelize for SQL or postgreSQL [here](https://github.com/Mcdavid95/paginate-info/blob/master/example.js)
